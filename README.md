@@ -1,13 +1,5 @@
-# DigitalImageProcessing-A01
+# Digital Image Processing - Assignment #01
 This digital image processing assignment includes different image processing techniques, including thresholding, intensity slicing, gamma transformations, histogram plotting, and image filtering.
-
-# 📘 Digital Image Processing Assignment
-
-## 🔍 Overview
-
-This repository contains solutions to several questions from a Digital Image Processing assignment using Python and OpenCV. Each function (`q1` to `q5`) demonstrates a specific image processing task such as thresholding, intensity slicing, gamma correction, histogram plotting, and image filtering.
-
----
 
 ## 📂 Directory Structure
 
